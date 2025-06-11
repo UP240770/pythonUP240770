@@ -107,4 +107,14 @@ print("Your weekly earning is", weekly_earning)
 # 22.- Prompt user to enter number of years lived, calculate seconds lived
 years_lived = int(input("Enter number of years you have lived: "))
 seconds_lived = years_lived * 365 * 24 * 60 * 60
-print("You have lived for", seconds_lived, "secon_
+print("You have lived for", seconds_lived, "seconds.")
+
+# 23.- Display the table
+print("1 1 1 1 1")
+print("2 1 2 4 8")
+print("3 1 3 9 27")
+print("4 1 4 16 64")
+print("5 1 5 25 125")
+
+
+#llisto
